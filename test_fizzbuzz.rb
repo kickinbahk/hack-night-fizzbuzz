@@ -4,7 +4,7 @@
 gem 'minitest', '>= 5.0.0'
 require 'minitest/autorun'
 require 'pry'
-require_relative 'ruby_file'
+require_relative 'fizzbuzz'
 
 # class New_test < Minitest::Test
 #   def sample_test
